@@ -1,0 +1,8 @@
+interface:
+  display_name: "行业选股研究系统"
+  short_description: "从产业链与利润池出发筛选、估值并持续维护A股候选"
+  default_prompt: "Use $industry-stock-selection to research a user-confirmed industry and build a reproducible A-share stock selection project."
+
+policy:
+  allow_implicit_invocation: true
+
